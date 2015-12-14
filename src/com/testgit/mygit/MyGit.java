@@ -14,4 +14,7 @@ package com.testgit.mygit;
  */
 public class MyGit {
 
+	public void test(){
+		System.out.println("œ» ‘ ‘git");
+	}
 }
